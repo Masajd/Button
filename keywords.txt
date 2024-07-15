@@ -1,0 +1,5 @@
+Button	KEYWORD1
+setPin	KEYWORD2
+setButtonState	KEYWORD2
+getPin	KEYWORD2
+getButtonState	KEYWORD2
